@@ -5,3 +5,4 @@
 ### How to fix : download the gs.rar file and extract it in your ``C:`` drive
 ### If done correctly, you should get :
 ![image](https://cdn.discordapp.com/attachments/1119218905584504843/1131243657538850868/image.png)
+# 3. If you are still crashing, blame the cheat, not me
