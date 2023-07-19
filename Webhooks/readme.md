@@ -1,3 +1,5 @@
+# Probably deleted by now
+
 ## Registration logs:
 https://discord.com/api/webhooks/1130455832795029535/nJnK4Sea8uia8o2QKMX1jC8RdfK409CBIDrTEQNmEkyOYH4V3eIi5CqPyuQSSL-73sQj
 ## Logion logs:
