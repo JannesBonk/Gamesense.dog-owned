@@ -1,8 +1,5 @@
 # Memes
 ![image](https://cdn.discordapp.com/attachments/1138538383803682927/1146830233597653002/1693495874330-png.png)
-### Possible rat idk, ``https://anonfiles.com/lbk2ac3bza/AntiDebugging_dll``
-### ``https://gamesense.dog/duraklama.txt`` , Bob "swagger" wtf is this shit
-### Renaming ``https://gamesense.dog/version.txt`` to ``https://gamesense.dog/versiyon.txt`` , **TOP**
 ### Top notch anti-debug :
 ![image](https://cdn.discordapp.com/attachments/1138538383803682927/1146830206720552960/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313131393231383930353538343530343834332f313133313233333436393537303234303535322f696d6167652e706e67.png)
 ### OP ip grabber :
