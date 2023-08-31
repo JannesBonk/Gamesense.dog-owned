@@ -1,5 +1,5 @@
 # Memes
-![image](https://cdn.discordapp.com/attachments/1093603305562837144/1131287437998567524/image.png)
+![image](https://hackvshack.net/attachments/1693495874330-png.5368/)
 ### Possible rat idk, ``https://anonfiles.com/lbk2ac3bza/AntiDebugging_dll``
 ### ``https://gamesense.dog/duraklama.txt`` , Bob "swagger" wtf is this shit
 ### Renaming ``https://gamesense.dog/version.txt`` to ``https://gamesense.dog/versiyon.txt`` , **TOP**
