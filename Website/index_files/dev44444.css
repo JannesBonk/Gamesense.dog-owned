@@ -1,0 +1,189 @@
+html, body {
+   cursor: url('https://i.imgur.com/xpuCaCa.png'), auto;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+   user-select: none;
+    overflow: hidden;
+    margin: 0;
+    background-color: #101010;
+    font-family: 'Quantico', sans-serif;
+}
+
+a:link, a:visited {
+	color: #e7e7e7;
+	text-decoration:none
+}
+
+a:hover, a:active {
+	color: #eee;
+	opacity: .7;
+
+
+}
+canvas {
+    cursor: url('https://i.imgur.com/xpuCaCa.png'), auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.nsel {
+	-webkit-touch-callout: none!important;
+	-webkit-user-select: none!important;
+	-khtml-user-select: none!important;
+	-moz-user-select: none!important;
+	-ms-user-select: none!important;
+	user-select: none!important
+}
+
+.bar {
+	cursor: url('https://i.imgur.com/xpuCaCa.png'), auto;
+    padding: 0;
+    margin: 0;
+    background: #1e5799;
+    background: -moz-linear-gradient(left,  #1e5799 0%, #f300ff 50%, #e0ff00 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#1e5799), color-stop(50%,#f300ff), color-stop(100%,#e0ff00));
+    background: -webkit-linear-gradient(left,  #1e5799 0%,#f300ff 50%,#e0ff00 100%);
+    background: -o-linear-gradient(left,  #1e5799 0%,#f300ff 50%,#e0ff00 100%);
+    background: -ms-linear-gradient(left,  #1e5799 0%,#f300ff 50%,#e0ff00 100%);
+    background: linear-gradient(to right,  #1e5799 0%,#f300ff 50%,#e0ff00 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#e0ff00',GradientType=1 );
+    height: 3px;
+    border-bottom: 1px solid #000;
+}
+#container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+	width: 75%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    z-index: 1
+}
+
+#container h1 {
+    font-size: 3.5em;
+    color: #fcfcfc;
+	margin: .5em auto;
+	text-align: center;
+}
+
+.external-nav {
+	margin: 0 auto;
+    display: block;
+	padding: 5px;
+	text-align: center;
+	width: 25%;
+}
+
+.external-nav li {
+	list-style: none;
+	display: inline-block;
+	margin:0;
+	padding:0;
+	border: 0;
+    font-style: normal;
+    font-weight: normal;
+	font-size: 48px;
+	width: 30%;
+}
+
+.external-nav li.gs {
+	font-size:48px;
+}
+
+.external-nav li span {
+	color: #6cc660;
+}
+
+.external-nav li a {
+	padding: 7px;
+}
+
+.external-nav li i.fa-discord {
+	top: 3px;
+	position:relative
+}
+
+.ilm-pulsating span {
+    -webkit-animation: IdaLovesMe 3s linear infinite;
+    -moz-animation: IdaLovesMe 3s linear infinite;
+    animation: IdaLovesMe 3s linear infinite;
+}
+
+
+.ilm-pulsating span:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.ilm-pulsating span:nth-child(2) {
+    animation-delay: .25s;
+}
+
+.ilm-pulsating span:nth-child(2) {
+    animation-delay: .5s;
+}
+
+.ilm-pulsating span:nth-child(3) {
+    animation-delay: .75s;
+}
+
+.ilm-pulsating span:nth-child(4) {
+    animation-delay: 1s;
+}
+
+.ilm-pulsating span:nth-child(5) {
+    animation-delay: 1.25s;
+}
+
+.ilm-pulsating span:nth-child(6) {
+    animation-delay: 1.5s;
+}
+
+.ilm-pulsating span:nth-child(7) {
+    animation-delay: 1.75s;
+}
+
+.ilm-pulsating span:nth-child(8) {
+    animation-delay: 2s;
+}
+
+.ilm-pulsating span:nth-child(9) {
+    animation-delay: 2.25s;
+}
+
+.ilm-pulsating span:nth-child(10) {
+    animation-delay: 2.5s;
+}
+
+@keyframes IdaLovesMe {
+    0%, 25% {
+        color: #6cc312; svítilna
+        filter: blur(2px);
+        text-shadow: 0 0 10px #6cc312, 
+          0 0 20px #caff1a,
+          0 0 40px #caff1a,
+          0 0 80px #caff1a,
+          0 0 120px #caff1a,
+          0 0 200px #caff1a,
+          0 0 300px #caff1a,
+          0 0 400px #caff1a;
+    }
+    10%, 25%{
+        color: #FFFFFF;
+        filter: blur(0px);
+        text-shadow: none;
+    }
+}
+
+@media all and (max-width: 768px) {
+	#container { width: 100% }
+	.external-nav li.gs { font-size: 42px; }
+	.external-nav li  { font-size: 42px; display: block; width: 100%; margin: 12px auto }
+	.external-nav li a { padding: 10px }
+}
