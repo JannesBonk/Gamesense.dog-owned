@@ -1,4 +1,10 @@
-# Loader webhooks from V4 (not avalible anymore)
+# New owner webhooks
+### Unknown 1: (they just pasted the loader and forgot to remove this webhook)
+https://discord.com/api/webhooks/1144662821272047788/RFe1660JmA3FG8Fx-tBEgjJO8WBHWOGxZS_ga2JVp9l8NuatU5Hlf-aKkAsNKi4CXF9d
+### Unknown 2: (working)
+https://discord.com/api/webhooks/1187404974599184394/WXSpC_msJWCFYPG7B69TaAnGROa-aQBJu76AHewkgg-M1OZYSjtGcrDBeCRFvRPNK-9p
+
+# ⚠ Old webhooks from V4 (not avalible anymore)
 ### Unknown 1:
 https://discord.com/api/webhooks/1147970327507386520/-QUavdY-EsKo7doBDMDgsllHbFqmTsRbsAHV3EZbSzusmIVS45r4Nrrf9njGHobnDxev
 ### Unknown 2:
